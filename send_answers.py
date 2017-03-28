@@ -14,8 +14,5 @@ url=args[1]
 ##ejemplo para elasticsearch 'http://localhost:9200/examen/jorge/intro?pretty=true'
 ##Posteo del json en la dirección 
 r=requests.post(url, data=json.dumps(datajs))
-##Descarga información de la URL despues del posteo
-impre=requests.get(url)
-df = impre.text
-##Impresión en la terminal
+##Impresión en la terminal del id asignado
 print(r.text)
