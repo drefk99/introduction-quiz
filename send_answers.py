@@ -18,4 +18,4 @@ r=requests.post(url, data=json.dumps(datajs))
 impre=requests.get(url)
 df = impre.text
 ##Impresión en la terminal
-print(df)
+print(r.text)
