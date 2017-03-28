@@ -1,4 +1,4 @@
-# introduction-quiz v 0.0000000000001
+# introduction-quiz v 0.01
 This repo is for introduction quiz
 
 ## Requisitos.
@@ -19,12 +19,12 @@ This repo is for introduction quiz
   **virtualenv -p python3.6 env**
   **pip install -r requirements.txt**
   
-# Ejecución del script
+## Ejecución del script
 
 * Se activa el entorno con el comando:
   **source env/bin/activate**
 * El script se ejcuta con el comando:
   **python send_answers.py "http://Host_para_el_post/puerto" | python -m json.tool**
   
-  # Nota
+  ## Nota
     *Es importante tener configurado adecuadamente apache para que pueda aceptar los archivos json.
