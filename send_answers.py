@@ -11,7 +11,7 @@ with open('introduction_quiz.json') as data_file:
 args=sys.argv
 ##URL que ingresa usuario
 url=args[1]
-##ejemplo 'http://localhost:9200/examen/jorge/intro?pretty=true'
+##ejemplo para elasticsearch 'http://localhost:9200/examen/jorge/intro?pretty=true'
 ##Posteo del json en la dirección 
 r=requests.post(url, data=json.dumps(datajs))
 ##Descarga información de la URL despues del posteo
