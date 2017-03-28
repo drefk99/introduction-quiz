@@ -1,0 +1,56 @@
+{
+	"quiz": [
+		{
+			"question": "Describe with your own words. What is a Data Platform?",
+			"answer": "Es la obtención de datos limpios de grandes cantidades de información"
+		},
+		{
+			"question": "In the 3 V's of big data. How would you describe Variety?",
+			"answer": "The data can come in all types of formats, structured, numeric in traditional DB to unstructured text documents, email, financial transactions "
+		},
+		{
+			"question": "What are the elements of tidy data?",
+			"answer": "Raw data, a tidy data set, a code book and explicit and exact recipe used to go form 1 to 2, 3"
+		},
+		{
+			"question": "List the most common format files you know for sharing data",
+			"answer": "JSON, CSV, Excel, API's and XML"
+		},
+		{
+			"question": "What is web scrapping?",
+			"answer": "Getting  information directly from a web page"
+		},
+		{
+			"question": "What is data integration?",
+			"answer": "It's the oportunity to combining data residing in differents sources and providing user a unified view "
+		},
+		{
+			"question": "What is data processing?",
+			"answer": "It's the oportunity to combining data residing in differents sources and providing user a unified view "
+		},
+		{
+			"question": "Mention some common data processing tasks",
+			"answer": "Clean, transform, merge and reshape"
+		},
+		{
+			"question": "Mention some common data processing tasks",
+			"answer": "Clean, transform, merge, and reshape"
+		},
+		{
+			"question": "What is Data as a Service?",
+			"answer": "It's a model provision and distribution of information where the files are on a web"
+		},
+		{
+			"question": "What is DataBase as a Service?",
+			"answer": "A predefined data base in the cloud"
+		},
+		{
+			"question": "What is data anlysis?",
+			"answer": "It's a process of inspecting, cleaning, transforming and modeling"
+		},
+		{
+			"question": "Mention some typical use cases for data analysis",
+			"answer": "To understand data properties, to find patterns in data and to sugges modeling strategies"
+		}
+	]	
+}
