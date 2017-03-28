@@ -29,3 +29,4 @@ This repo is for introduction quiz
   
   ## Nota
     * Es importante tener configurado adecuadamente apache para que pueda aceptar los archivos json.
+    * En algunos casos se recomienda estar como root para una correcta instalacón de los paquetes.
